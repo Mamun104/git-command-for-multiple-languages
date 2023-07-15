@@ -3,9 +3,9 @@
 
 ## অনুবাদিত সংস্করণ
 - [English version (original)](README.md)
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [বাংলা সংস্করণ](READMEbn.md)
+- [Versão em português](git-command-for-português.md)
+- [Versión en español](git-command-for-español.md)
+- [বাংলা সংস্করণ](git-command-for-Türkçe.md)
 
 ___
 
